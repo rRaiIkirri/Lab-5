@@ -1,0 +1,38 @@
+[
+  {
+    "LastName": "\u0406\u0432\u0430\u043D\u043E\u0432",
+    "Course": 1,
+    "StudentCard": "SC001",
+    "AverageGrade": 95,
+    "Country": "\u041F\u043E\u043B\u044C\u0449\u0430",
+    "ForeignPassportNumber": "P123456",
+    "YearsInUkraine": 3
+  },
+  {
+    "LastName": "\u041F\u0435\u0442\u0440\u043E\u0432",
+    "Course": 1,
+    "StudentCard": "SC002",
+    "AverageGrade": 92,
+    "Country": "\u041D\u0456\u043C\u0435\u0447\u0447\u0438\u043D\u0430",
+    "ForeignPassportNumber": "N987654",
+    "YearsInUkraine": 6
+  },
+  {
+    "LastName": "\u0421\u0438\u0434\u043E\u0440\u0435\u043D\u043A\u043E",
+    "Course": 2,
+    "StudentCard": "SC003",
+    "AverageGrade": 88,
+    "Country": "\u0423\u043A\u0440\u0430\u0457\u043D\u0430",
+    "ForeignPassportNumber": "",
+    "YearsInUkraine": 0
+  },
+  {
+    "LastName": "Smith",
+    "Course": 1,
+    "StudentCard": "SC004",
+    "AverageGrade": 91,
+    "Country": "\u0421\u0428\u0410",
+    "ForeignPassportNumber": "US555555",
+    "YearsInUkraine": 5
+  }
+]
